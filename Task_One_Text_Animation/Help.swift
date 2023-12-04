@@ -6,3 +6,9 @@
 //
 
 import Foundation
+import SwiftUI
+
+extension Color {
+    static let rectangleStart = Color(red: 152 / 255, green: 146 / 255, blue: 226 / 255)
+    static let rectangkeFinish = Color(red: 91 / 255, green: 110 / 255, blue: 188 / 255)
+}
